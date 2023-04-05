@@ -1,0 +1,380 @@
+{
+  "Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Nature",
+      "image":"file:///android_asset/more/more1.png",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Beach",
+      "image":"file:///android_asset/more/more2.png",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Animals",
+      "image":"file:///android_asset/more/more3.png",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Super Car",
+      "image":"file:///android_asset/more/more4.png",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Space",
+      "image":"file:///android_asset/more/more5.png",
+      "link":"https://aliendro.id/"
+    },
+    {
+      "id":6,
+      "title":"Love Bird",
+      "image":"file:///android_asset/more/more6.png",
+      "link":"https://aliendro.id/"
+    }
+
+  ],
+  "Contact": [
+    {
+      "id": 1,
+      "title": "Jeon Jeong-guk",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Jeon Jeong-guk.jpg",
+      "videoid": "chatboot_footbal"
+    },
+    {
+      "id": 2,
+      "title": "Kim Namjoon",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Kim Namjoon.png",
+      "videoid": "chatboot_flower"
+    },
+    {
+      "id": 3,
+      "title": "Samples last cha",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Kim Seok Jin.jpg",
+      "videoid": "chatboot_footbal"
+    },
+    {
+      "id": 4,
+      "title": "Kim Seok Jin",
+      "description": "Reskin Aliendroid",
+      "image": "file:///android_asset/Kim Seok Jin.jpg",
+      "videoid": "chatboot_flower3"
+    },
+    {
+      "id": 5,
+      "title": "Kim Tae Hyung",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Kim Tae Hyung.jpg",
+      "videoid": "https://hexa.web.id/footbal.mov"
+    },
+    {
+      "id": 6,
+      "title": "Min Yoon Gi",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Min Yoon Gi.jpg",
+      "videoid": "https://hexa.web.id/footbal.mov"
+    },
+    {
+      "id": 7,
+      "title": "Park Ji Min",
+      "description": "Samples last chat",
+      "image": "http://aliendro.id/uploads/YTAPP/Park Ji Min.jpg",
+      "videoid": "https://hexa.web.id/footbal.mov"
+    }
+  ],
+  "Wallpaper2": [
+    {
+      "id": 1,
+      "title": "Waterfall",
+      "image": "https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    },
+    {
+      "id": 2,
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mountain",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "id": 4,
+      "title": "Cute Cat",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Dog",
+      "image": "https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Super Car",
+      "image": "file:///android_asset/alienboot/image/car.jpg"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Super Car",
+      "wallpaper_url": "category/supercar.jpeg"
+    },
+    {
+      "name_category": "Nature",
+      "wallpaper_url": "category/beach.jpeg"
+    },
+    {
+      "name_category": "Animals",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
+    },
+    {
+      "name_category": "Vector",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Super Cr",
+      "wallpaper_name": "Targa",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/car.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Super Car",
+      "wallpaper_name": "AUDI",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/car2.jpeg"
+    },
+    {
+      "id": 3,
+      "name_category": "Super Car",
+      "wallpaper_name": "Lamborghini online",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+    },
+    {
+      "id": 4,
+      "name_category": "Animals",
+      "wallpaper_name": "Cats Eyes",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "wallpaper_name": "Waterfall",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "wallpaper_name": "Mountains",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+    },
+    {
+      "id": 7,
+      "name_category": "Animals",
+      "wallpaper_name": "Loves Bird",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Waterfall Online",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Waterfall Folder Asset",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "gif/waterfall.gif"
+    },
+    {
+      "id": 10,
+      "name_category": "Nature",
+      "wallpaper_name": "Live Beach Online",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
+    },
+    {
+      "id": 10,
+      "name_category": "Animals",
+      "wallpaper_name": "Live Frog Folder Asset",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
+    },
+    {
+      "id": 11,
+      "name_category": "Vector",
+      "wallpaper_name": "Blue Ink",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
+    },
+    {
+      "id": 12,
+      "name_category": "Nature",
+      "wallpaper_name": "Summer",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
+    },
+    {
+      "id": 13,
+      "name_category": "Vector",
+      "wallpaper_name": "Sunset vecto",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
+    },
+    {
+      "id": 14,
+      "name_category": "Vector",
+      "wallpaper_name": "Vector island pirate",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+    }
+  ],
+  "Puzzle":
+  [
+    {
+      "title":"Waterfall",
+      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+    },
+    {
+      "title": "River",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+    },
+    {
+      "title":"Mountain",
+      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+    },
+    {
+      "title":"Cute Cat",
+      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+    }
+  ,
+    {
+      "title":"Dog",
+      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+    },
+    {
+      "title":"Super Car",
+      "image":"file:///android_asset/image/car.jpg"
+    }
+  ],
+  "ItemFake": [
+    {
+      "id": 0,
+      "name": "Mr. Kim",
+      "image_url": "file:///android_asset/image/kim.jpeg",
+      "video_url": "footbal",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 1,
+      "name": "Kim Seok Jin",
+      "image_url": "file:///android_asset/image/jin.jpg",
+      "video_url": "footbal",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Jeon Jungkook",
+      "image_url": "https://asset.kompas.com/crops/y8YrNSENHec4V6IXawkBU_BLwSM=/0x0:900x600/750x500/data/photo/2019/11/04/5dc021dcbb270.jpeg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Jimin",
+      "image_url": "file:///android_asset/image/jimin.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Suga",
+      "image_url": "https://assets.pikiran-rakyat.com/crop/0x17:727x768/x/photo/2020/06/18/317448455.jpg",
+      "video_url": "footbal",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+    },
+    {
+      "id": 5,
+      "name": "V BTS",
+      "image_url": "file:///android_asset/image/v.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+    },
+    {
+      "id": 6,
+      "name": "J Hope",
+      "image_url": "file:///android_asset/image/jhope.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    },
+    {
+      "id": 7,
+      "name": "RM BTS",
+      "image_url": "file:///android_asset/image/rm.jpg",
+      "video_url": "https://aliendro.id/uploads/demo/fakecall/flower3.mov",
+      "video_url2": "footbal",
+      "video_url3": "footbal",
+      "voice_url": "dosa_membawa_keburukan.mp3"
+    }
+  ]
+}
